@@ -5,7 +5,7 @@
 
 # Kullanılanlar
 
-- MSSSQL Veritabanı
+- MSSQL Veritabanı
 - Krypton Toolkit [Link](https://github.com/ComponentFactory/Krypton) 
 
 # Program Özellikleri
